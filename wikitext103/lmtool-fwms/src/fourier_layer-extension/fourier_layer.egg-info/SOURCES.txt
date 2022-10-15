@@ -1,0 +1,8 @@
+fourier_layer_cuda.cpp
+fourier_layer_cuda_kernel.cu
+setup.py
+setup_cuda.py
+fourier_layer.egg-info/PKG-INFO
+fourier_layer.egg-info/SOURCES.txt
+fourier_layer.egg-info/dependency_links.txt
+fourier_layer.egg-info/top_level.txt
